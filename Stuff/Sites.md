@@ -2,7 +2,7 @@
 
 - [Google Keep](https://keep.google.com/)
 - [Pexels](https://www.pexels.com/)
-- [ProtonMain](https://proton.me/mail)
+- [ProtonMail](https://proton.me/mail)
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
 - [DrawIO](https://app.diagrams.net/)
 - [TypeRun](https://typerun.top/)
